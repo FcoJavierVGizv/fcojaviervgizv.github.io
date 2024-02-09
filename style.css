@@ -5,3 +5,7 @@ h2{
     text-decoration-line: underline;
     text-decoration-style: solid;
 }
+
+body{
+    background-color: darkgray;
+}
