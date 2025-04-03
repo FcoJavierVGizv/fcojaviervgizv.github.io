@@ -1,12 +1,7 @@
 # fcojaviervgizg
-**negrita**
-*cursiva*
-> cita
-1. Primer elemento
-2. Segundo elemento
-3. Tercer elemento
-----------------------
-# QuickLinks #
-* website: [Mi página web](https://victorprofetic.github.com)
+**Página FºJavier Vicaria Garcia**
+*Explicación de la página*
 
-![IES ZAIDIN VERGELES](https://pixnio.com/free-images/2020/07/18/2020-07-18-08-01-24.jpg)
+Nosotros ofrecemos a los mejores proveedores de zapatillas de toda europa, colaborando con conocidas marcas como
+Nike o Puma. No sentirá que malgasta su tiempo buscando lo que más le gusta en nuestra tienda, podemos asegurar
+que todo lo que busque está en nuestro stock. 
